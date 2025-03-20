@@ -1,0 +1,23 @@
+{
+  "name": "@biswarup598/authz",
+  "version": "1.0.0",
+  "description": "This is a package that covers a simple authorization solution.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/biswarup-naha/Authz-npm.git"
+  },
+  "author": "Biswarup Naha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/biswarup-naha/Authz-npm/issues"
+  },
+  "homepage": "https://github.com/biswarup-naha/Authz-npm#readme",
+  "dependencies": {
+    "@biswarup598/authz": "^1.0.0"
+  }
+}
